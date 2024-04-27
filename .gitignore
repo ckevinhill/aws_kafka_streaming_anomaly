@@ -1,0 +1,7 @@
+*.pptx
+*/.terraform/*
+*.tfstate.*
+*.tfstate
+launch.json
+*.lock*
+*.csv
